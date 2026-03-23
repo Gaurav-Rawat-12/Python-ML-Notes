@@ -5,7 +5,9 @@ A collection of **clean, slightly polished Python notes** focused on practical u
 ## 📌 About
 
 These notes are designed to reinforce **core Python concepts through code**, not theory-heavy explanations.
-They emphasize **readability, patterns, and real usage**.
+They emphasize **readability, patterns, and real usage**. 
+
+Simple CLI-based student manager to practice Python data handling, edge cases, and basic analytics.
 
 > ⚠️ Not recommended for complete beginners.
 
